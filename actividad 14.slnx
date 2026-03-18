@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="cuentas bancarias verdadera/cuentas bancarias verdadera.csproj" />
   <Project Path="cuentas bancarias/prodcto por codigo.csproj" />
   <Project Path="empleados de una empresa/empleados de una empresa.csproj" />
   <Project Path="inventario de productos/inventario de productos.csproj" />
