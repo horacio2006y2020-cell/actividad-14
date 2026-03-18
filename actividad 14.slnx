@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="inventario de producto/inventario de producto.csproj" />
+  <Project Path="inventario de productos/inventario de productos.csproj" />
   <Project Path="registro de estudiantes/registro de estudiantes.csproj" />
 </Solution>

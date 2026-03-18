@@ -1,14 +1,10 @@
 {
   "profiles": {
-    "registro de estudiantes": {
+    "inventario de productos": {
       "commandName": "Project"
     },
     "Container (Dockerfile)": {
       "commandName": "Docker"
-    },
-    "WSL": {
-      "commandName": "WSL2",
-      "distributionName": ""
     }
   }
 }
