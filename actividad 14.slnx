@@ -4,6 +4,7 @@
   <Project Path="cursos universitarios/cursos universitarios.csproj" />
   <Project Path="empleados de una empresa/empleados de una empresa.csproj" />
   <Project Path="inventario de productos/inventario de productos.csproj" />
+  <Project Path="pedidos de clientes/pedidos de clientes.csproj" />
   <Project Path="registro de estudiantes/registro de estudiantes.csproj" />
   <Project Path="registros de estudiantes  utilizando diccionarios/registros de estudiantes  utilizando diccionarios.csproj" />
   <Project Path="sistema biblioteca/sistema biblioteca.csproj" />
