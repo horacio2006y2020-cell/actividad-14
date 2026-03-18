@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "inventario de producto": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
