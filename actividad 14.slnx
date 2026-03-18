@@ -2,6 +2,7 @@
   <Project Path="empleados de una empresa/empleados de una empresa.csproj" />
   <Project Path="inventario de productos/inventario de productos.csproj" />
   <Project Path="registro de estudiantes/registro de estudiantes.csproj" />
+  <Project Path="registros de estudiantes  utilizando diccionarios/registros de estudiantes  utilizando diccionarios.csproj" />
   <Project Path="sistema biblioteca/sistema biblioteca.csproj" />
   <Project Path="ventas de una tienda/ventas de una tienda.csproj" />
 </Solution>

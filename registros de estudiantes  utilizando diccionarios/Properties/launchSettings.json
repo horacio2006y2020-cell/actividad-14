@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "registros de estudiantes  utilizando diccionarios": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
